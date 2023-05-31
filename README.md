@@ -2,9 +2,9 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-### Streamline Hardhat workflow with an easy-to-use boilerplate
+### Hardhat-based boilerplate for smart contract development
 
-The Hardhat boilerplate comes pre-configured with essential settings and plugins, making it easy for developers to get started quickly. Streamline your workflow by utilizing built-in scripts for testing, linting, and deployment.
+A Hardhat boilerplate that comes pre-configured with essential settings and plugins, simplifying the process for developers to get started quickly. Developers can streamline smart contract workflow by utilizing built-in scripts for testing, linting, and deployment.
 
 ## Installation
 
